@@ -1,0 +1,3 @@
+C:/Users/dulci/OneDrive/CETI_COLOMOS/2do Semestre/POO/programa/2P-RPG-23310160/cmake-build-debug/CMakeFiles/rpg.dir
+C:/Users/dulci/OneDrive/CETI_COLOMOS/2do Semestre/POO/programa/2P-RPG-23310160/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dulci/OneDrive/CETI_COLOMOS/2do Semestre/POO/programa/2P-RPG-23310160/cmake-build-debug/CMakeFiles/rebuild_cache.dir
